@@ -1,3 +1,6 @@
 # Belajar-Anggular-AngelinAgustin
 
-# mg g c HousingLocation --standalone --inline-template
+# ng g c HousingLocation --standalone --inline-template
+
+# sebagai bentuk models dari mongo db 
+# ng g i HousingLocation
