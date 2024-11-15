@@ -1,7 +1,7 @@
 # Belajar-Anggular-AngelinAgustin
-
-# ng g c HousingLocation --standalone --inline-template
+# membuat Component
+1.ng g c HousingLocation --standalone --inline-template
+3. ng g c details --standalone --inline-template
 
 # sebagai bentuk models dari mongo db 
-# ng g i HousingLocation
-# ng g c details --standalone --inline-template
+2. ng g i HousingLocation
