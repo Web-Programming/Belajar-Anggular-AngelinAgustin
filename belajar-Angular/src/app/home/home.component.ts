@@ -10,7 +10,7 @@ import { HousingLocation } from '../housing-location';
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
-  housingLocationList: HousingLocation [] = 
+  housingLocationList: HousingLocation [] =[
   {
     id: 0,
     nama : " loreom ipsum ",
@@ -20,5 +20,17 @@ export class HomeComponent {
     availabelUnits : 12,
     wifi : true,
     laundry : true,
+  },
+
+  {
+    id: 2,
+    nama : " loreom ipsum ",
+    city : " Jakarta",
+    state : " ID",
+    photo : " ",
+    availabelUnits : 12,
+    wifi : true,
+    laundry : true,
   }
+];
 }
